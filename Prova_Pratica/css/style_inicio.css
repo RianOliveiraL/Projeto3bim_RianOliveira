@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: rgb(75, 250, 192);
+}
+
+#div1 {
+    display: flex;
+    background-color: aquamarine;
+    border-radius: 20px;
+    padding: 100px 10%;
+    
+}
+
+#button {
+    border: none;
+  color: white;
+  padding: 30px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 5px;
+  cursor: pointer;
+  background-color: green;
+  align-content: center;
+}
